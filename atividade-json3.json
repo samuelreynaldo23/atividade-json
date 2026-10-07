@@ -1,0 +1,9 @@
+{
+ "produto":{
+"nome":"coca-cola",
+"preço":3.70,
+ "quantidade": "50 latas de 350",
+ "disponivel": "25 latas disponivel"
+
+ }
+}
